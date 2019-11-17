@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webcam-prediction/static/css/main.c3ff1515.chunk.css",
+    "main.js": "/webcam-prediction/static/js/main.b46c2c61.chunk.js",
+    "main.js.map": "/webcam-prediction/static/js/main.b46c2c61.chunk.js.map",
+    "runtime~main.js": "/webcam-prediction/static/js/runtime~main.700630a3.js",
+    "runtime~main.js.map": "/webcam-prediction/static/js/runtime~main.700630a3.js.map",
+    "static/js/2.1c71c113.chunk.js": "/webcam-prediction/static/js/2.1c71c113.chunk.js",
+    "static/js/2.1c71c113.chunk.js.map": "/webcam-prediction/static/js/2.1c71c113.chunk.js.map",
+    "index.html": "/webcam-prediction/index.html",
+    "precache-manifest.be4d50679d6f79cad2bcee4c1929d555.js": "/webcam-prediction/precache-manifest.be4d50679d6f79cad2bcee4c1929d555.js",
+    "service-worker.js": "/webcam-prediction/service-worker.js",
+    "static/css/main.c3ff1515.chunk.css.map": "/webcam-prediction/static/css/main.c3ff1515.chunk.css.map"
+  }
+}
