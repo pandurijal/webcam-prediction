@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+.box {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
